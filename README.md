@@ -1,6 +1,7 @@
 **The Small Transport Company**
 
 **Problem**
+
 You are the owner of a small transport company.
 You own 1 large bus that can transport a maximum of B passengers, but you can also
 sub rent a set of small cars. Each small car can transport up to C passengers at a time.
