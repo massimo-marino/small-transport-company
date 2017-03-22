@@ -10,16 +10,19 @@ Elements of vector STATIONS describe the number of passengers waiting to be tran
 from each station.
 
 **Input**
+
 B = 12         Bus can transport maximum 12 passengers.
 C = 5          Car can transport maximum 5 passengers.
 STATIONS = [15, 10]  There are 15 and 12 passengers at two stations.
 
 **Task**
+
 Find the minimal number of small cars you need to rent to transport all
 passengers. Passengers need to be transported at the same time (no reuse of
 vehicles).
 
 **Constraints**
+
 B, C, STATIONS[i] are integers
 1 <= B <= 999
 1 <= C <= 1000
@@ -27,6 +30,7 @@ B, C, STATIONS[i] are integers
 0 <= STATIONS[i] <= 1000
 
 **Examples**
+
 STATIONS = [15, 10]
 B = 12
 C = 5
